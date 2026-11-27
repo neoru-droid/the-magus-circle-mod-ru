@@ -3,9 +3,10 @@
 Мод-меню в виде раскрытого двухстраничного гримуара на русском и таблица Cheat Engine для **The Magus Circle** (сборка `26344172`, Windows, Steam Deck и macOS).
 
 ## Скачать
-- **[Сборка 2-в-1 и отдельное мод-меню на Boosty](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe?utm_source=github&utm_medium=readme&utm_campaign=the_magus_circle)** (первые 48 часов в раннем доступе от `120 ₽`, откроется всем **28 ноября 2026 в 18:00 UTC+10**)
+- **[Сборка 2-в-1 и отдельное мод-меню на Boosty](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe)** (ранний доступ: подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`, откроется всем **28 ноября 2026 в 18:00 UTC+10**)
 - **[Таблица .CT на GitHub Releases](https://github.com/neoru-droid/the-magus-circle-mod-ru/releases)** · **[Чистый русификатор текста](https://github.com/neoru-droid/the-magus-circle-ru)**
-- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше (подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`), своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
+- **Обновления и новые релизы в Telegram:** [@neoru_droid](https://t.me/neoru_droid)
 
 ![The Magus Circle - Обложка](docs/screenshots/cover_wide.png)
 
@@ -31,6 +32,6 @@
 3. **macOS:** запустите `install-macos.command`.
 4. **Откат:** нажмите «Удалить мод-меню» в установщике (или флаг `--uninstall`).
 
-Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=hub) · [профиль на GitHub](https://github.com/neoru-droid)
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo) · [Telegram](https://t.me/neoru_droid) · [профиль на GitHub](https://github.com/neoru-droid)
 
 Лицензия: [MIT](LICENSE)
