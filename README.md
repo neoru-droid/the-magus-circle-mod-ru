@@ -3,10 +3,9 @@
 Мод-меню в виде раскрытого двухстраничного гримуара на русском и таблица Cheat Engine для **The Magus Circle** (сборка `26344172`, Windows, Steam Deck и macOS).
 
 ## Скачать
-- **[Сборка 2-в-1 и отдельное мод-меню на Boosty](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe)** (ранний доступ: подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`, откроется всем **28 ноября 2026 в 18:00 UTC+10**)
-- **[Таблица .CT на GitHub Releases](https://github.com/neoru-droid/the-magus-circle-mod-ru/releases)** · **[Чистый русификатор текста](https://github.com/neoru-droid/the-magus-circle-ru)**
-- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше (подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`), своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
-- **Обновления и новые релизы в Telegram:** [@neoru_droid](https://t.me/neoru_droid)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/the-magus-circle-mod-ru/releases/download/v1.0.0/TheMagusCircle-Full-RU-v1.0.zip)** · [Таблица .CT и другие файлы на GitHub Releases](https://github.com/neoru-droid/the-magus-circle-mod-ru/releases)
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe)**
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![The Magus Circle - Обложка](docs/screenshots/cover_wide.png)
 
